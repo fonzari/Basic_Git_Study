@@ -17,3 +17,5 @@ Este repositório é um registro completo da minha jornada no curso de Análise 
 - **NumPy**: Biblioteca poderosa para operações numéricas e científicas.
 - **Scikit-learn**: Biblioteca abrangente para aprendizado de máquina, incluindo modelos de classificação, regressão e clustering.
 - **Matplotlib e Seaborn**: Bibliotecas versáteis para criação de visualizações estáticas e interativas, permitindo a comunicação clara de insights.
+
+
