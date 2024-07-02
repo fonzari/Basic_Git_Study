@@ -1,7 +1,9 @@
 
 # Repositório de Análise de Dados - EBAC 🚀
 
-Este repositório é um registro completo da minha jornada no curso de Análise de Dados da EBAC. Aqui você encontrará uma coleção organizada de projetos práticos, exemplos de código e demonstrações das minhas habilidades em manipulação, análise e visualização de dados. 📊
+Este repositório é um registro completo da minha jornada no curso de Análise de Dados da EBAC.
+
+Aqui você encontrará uma coleção organizada de projetos práticos, exemplos de código e demonstrações das minhas habilidades em manipulação, análise e visualização de dados. 📊
 
 ## Estrutura do Repositório 📂
 
