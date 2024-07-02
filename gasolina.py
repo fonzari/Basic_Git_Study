@@ -2,7 +2,7 @@
 import pandas as pd
 import matplotlib.pyplot as plt
 
-#  CSV 
+#  CSV
 df = pd.read_csv("gasolina.csv")
 
 # PLOT
