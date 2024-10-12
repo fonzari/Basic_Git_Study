@@ -2,7 +2,7 @@
 # Repositório de Análise de Dados - EBAC 
 
 
-## Tecnologias e Bibliotecas Utilizadas 🛠
+## Tecnologias e Bibliotecas Utilizadas 
 
 - **Python**: A linguagem principal para análise de dados e desenvolvimento de scripts.
 - **Pandas**: Biblioteca fundamental para manipulação e análise eficiente de dados estruturados.
